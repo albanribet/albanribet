@@ -36,7 +36,7 @@ To become a software developer and not be homeless 🫡
    <!--![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 
 ## 🏆 Side projects
-- ANDIE
+- ANDIE (A Non Destructive Image Editor) - this is a University project I am working on with my coding group, the *Imperative Iguanas*
 
 ## 📈 Stats 
 <!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
