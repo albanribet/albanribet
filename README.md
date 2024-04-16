@@ -11,7 +11,7 @@
 ### I'm Alban!
 
 ## 🌱 About me
-I'm doing a Bachelor's degree in computer science and marketing at the University of Otago. My interests are coding, games, and the gym.
+I'm doing a Bachelor's degree in computer science and marketing at the University of Otago. My interests are coding, TTRPGs, and games.
 
 ## 🎓 Goals 
 To become a software developer and not be homeless 🫡
