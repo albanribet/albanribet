@@ -11,7 +11,7 @@
 ### I'm Alban!
 
 ## 🌱 About me
-I'm doing a Bachelor's degree in computer science and marketing at the University of Otago. My interests are coding, TTRPGs, and games.
+I'm doing a Bachelor's degree in computer science and marketing at the University of Otago. My interests are coding, TTRPGs, and video games.
 
 ## 🎓 Goals 
 To become a software developer and not be homeless 🫡
@@ -37,6 +37,7 @@ To become a software developer and not be homeless 🫡
 
 ## 🏆 Side projects
 - ANDIE (A Non-Destructive Image Editor) - this is a University project I am working on with my programming team - *The Imperative Iguanas*
+- Currently working on a small java project for some extra practise (and before I can think of a good idea)
 
 ## 📈 Stats 
 <!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
