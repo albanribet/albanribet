@@ -8,7 +8,7 @@
 
 # Hello There!
 
-### I'm Alban!
+### I'm Alban! 
 
 ## 🌱 About me
 I'm doing a Bachelor's degree in computer science and marketing at the University of Otago. My interests are coding, TTRPGs, and video games.
