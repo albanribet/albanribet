@@ -38,6 +38,7 @@ To become a software developer and not be homeless 🫡
 ## 🏆 Side projects
 - ANDIE (A Non-Destructive Image Editor) - this is a University project I am working on with my programming team - *The Imperative Iguanas*
 - Currently working on a small java project for some extra practise (and before I can think of a good idea)
+- also working on a study timer app for my personal use
 
 ## 📈 Stats 
 <!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
