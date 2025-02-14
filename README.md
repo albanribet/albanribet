@@ -43,7 +43,7 @@ To become a software developer and not be homeless 🫡
 
 ## 🏆 Main projects
 - Undergoing a scholarship/internship at the University of Otago where I am developing an android app using DJI's MSDK
-- Building *Grimm on Wheels* a physics based 2d driving game inspired by *Hill Climb Racer* and *Dante's Inferno* link coming soon!
+- Building *Grimm on Wheels* a physics based 2d driving game inspired by *Hill Climb Racer* and *Dante's Inferno* - [Click me to play!](https://cosc360.otago.ac.nz/webgl/Astreus/TestBuild/index.html)
 
 ## 🏆 Past projects
 - ANDIE (A Non-Destructive Image Editor) - this is a University project I am working on with my programming team - *The Imperative Iguanas*
