@@ -44,12 +44,13 @@ To become a software developer and not be homeless 🫡
    <!--![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
    <!--  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 
-## 🏆 Main projects
-- Undergoing a scholarship/internship at the University of Otago where I am developing an android app using DJI's MSDK
+## 🏆 Current projects
+- Pending
 
 ## 🏆 Past projects
-- ANDIE (A Non-Destructive Image Editor) - this is a University project I am working on with my programming team - *The Imperative Iguanas*
 - *Grim on Wheels* a physics based 2d driving game inspired by *Hill Climb Racer* and *Dante's Inferno* - [Click me to play!](https://cosc360.otago.ac.nz/webgl/Astreus/TestBuild/index.html)
+- Worked on an android app using DJI's MSDK while undergoing a scholarship/internship at the University of Otago
+- ANDIE (A Non-Destructive Image Editor) - this is a University project I worked on with my programming team - *The Imperative Iguanas*
 - Other smaller projects
 
 ## 📈 Stats 
