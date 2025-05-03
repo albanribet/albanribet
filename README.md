@@ -53,8 +53,4 @@ To become a software developer and not be homeless 🫡
 - ANDIE (A Non-Destructive Image Editor) - this is a University project I worked on with my programming team - *The Imperative Iguanas*
 - Other smaller projects
 
-## 📈 Stats 
-<!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
-![](https://github-readme-stats.vercel.app/api?username=albanribet&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
-
 <a href = 'https://www.linkedin.com/in/alban-ribet-6274a72b7'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
