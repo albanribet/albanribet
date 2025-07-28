@@ -11,10 +11,10 @@
 ### I'm Alban! 
 
 ## 🌱 About me
-I'm doing a Bachelor's degree in computer science and marketing at the University of Otago.
+I am a computer science and marketing graduate from the University of Otago looking to start my career!
 
 ## 🎓 Goals 
-To become a software developer and not be homeless 🫡
+Becomming a Software Engineer!
 
 ## 🧑‍💻 Skills
 
