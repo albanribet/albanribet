@@ -44,8 +44,8 @@ Becomming a Software Engineer!
    <!--![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
    <!--  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 
-## 🏆 Current projects
-- Pending
+ <!--## 🏆 Current projects
+- Pending  -->
 
 ## 🏆 Past projects
 - *Grim on Wheels* a physics based 2d driving game inspired by *Hill Climb Racer* and *Dante's Inferno* - [Click me to play!](https://cosc360.otago.ac.nz/webgl/Astreus/TestBuild/index.html)
