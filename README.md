@@ -51,6 +51,7 @@ Becomming a Software Engineer!
 - *Grim on Wheels* a physics based 2d driving game inspired by *Hill Climb Racer* and *Dante's Inferno* - [Click me to play!](https://cosc360.otago.ac.nz/webgl/Astreus/TestBuild/index.html)
 - Worked on an android app using DJI's MSDK while undergoing a scholarship/internship at the University of Otago
 - ANDIE (A Non-Destructive Image Editor) - this is a University project I worked on with my programming team - *The Imperative Iguanas*
+- A Website with birds of Aotearoa and how endangered the different species are. [Click me to see!](https://ribal713.cspages.otago.ac.nz/birdsofaotearoawebsite/)
 - Other smaller projects
 
 <a href = 'https://www.linkedin.com/in/alban-ribet-6274a72b7'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
